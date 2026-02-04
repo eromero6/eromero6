@@ -19,7 +19,6 @@ By the end of the semester I hope to:
 - Proficiently evaluate ethical considerations, such as bias and fairness in datasets, responsible research design, and ethical implications of deploying predictive and generative models.
 
 
-
 ### Languages and Tools:
 
 <table>
