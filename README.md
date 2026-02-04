@@ -13,7 +13,7 @@ Throughout this semester I will create a portfolio of data-driven web applicatio
 
 ## Goals: 
 By the end of the semester I hope to: 
-- Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, and Streamlit for data manipulation, visualization, and application development.
+- Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, Streamlit, and SQL for data manipulation, visualization, application development, and database integration.
 - Learn core machine learning concepts, including model selection, feature engineering, hyperparameter tuning, and model evaluation, and apply these skills to real-world data.
 - Gain exposure to advanced topics like neural networks, natural language processing (NLP), and fine-tuning pre-trained LLMs for analytics and decision-making.
 - Proficiently evaluate ethical considerations, such as bias and fairness in datasets, responsible research design, and ethical implications of deploying predictive and generative models.
