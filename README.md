@@ -11,6 +11,10 @@ I’m a senior at the University of Notre Dame majoring in Economics with minors
 ## Current Projects:
 Throughout this semester I will create a portfolio of data-driven web applications, integrating EDA, machine learning models, and LLMs to solve practical problems and effectively communicate results.
 
+<!-- BLOG-POST-LIST:START -->
+- [Data Science Portfolio](https://github.com/eromero6/ROMERO-Data-Science-Portfolio)
+- [Elements of Computing II Portfolio](https://github.com/eromero6/ROMERO-elements-of-computing-ii)
+
 ## Goals: 
 By the end of the semester I hope to: 
 - Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, Streamlit, and SQL for data manipulation, visualization, application development, and database integration.
@@ -59,13 +63,6 @@ By the end of the semester I hope to:
     </td>
   </tr>
 </table>
-
-###  Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Data Science Portfolio](https://github.com/eromero6/ROMERO-Data-Science-Portfolio)
-- [Elements of Computing II Portfolio](https://github.com/eromero6/ROMERO-elements-of-computing-ii)
-
 
 ### Interests
 - 🩰  Dancing
