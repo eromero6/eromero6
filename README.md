@@ -15,7 +15,7 @@ Throughout this semester I will create a portfolio of data-driven web applicatio
 - [Data Science Portfolio](https://github.com/eromero6/ROMERO-Data-Science-Portfolio)
 - [Elements of Computing II Portfolio](https://github.com/eromero6/ROMERO-elements-of-computing-ii)
 
-## Goals: 
+## Goals for Spring 2026: 
 By the end of the semester I hope to: 
 - Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, Streamlit, and SQL for data manipulation, visualization, application development, and database integration.
 - Learn core machine learning concepts, including model selection, feature engineering, hyperparameter tuning, and model evaluation, and apply these skills to real-world data.
