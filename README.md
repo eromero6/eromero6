@@ -9,12 +9,14 @@ I’m a senior at the University of Notre Dame majoring in Economics with minors
 - 💼 Applied research and data analysis experience supporting evidence-based decisions, complemented by operations and leadership experience across team, project, and logistics management.
 
 ## Current Projects:
+Throughout this semester I will create a portfolio of data-driven web applications, integrating EDA, machine learning models, and LLMs to solve practical problems and effectively communicate results.
 
 ## Goals: 
 By the end of the semester I hope to: 
 - Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, and Streamlit for data manipulation, visualization, and application development.
 - Learn core machine learning concepts, including model selection, feature engineering, hyperparameter tuning, and model evaluation, and apply these skills to real-world data.
 - Gain exposure to advanced topics like neural networks, natural language processing (NLP), and fine-tuning pre-trained LLMs for analytics and decision-making.
+- Proficiently evaluate ethical considerations, such as bias and fairness in datasets, responsible research design, and ethical implications of deploying predictive and generative models.
 
 
 
