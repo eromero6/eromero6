@@ -8,6 +8,10 @@ I’m a senior at the University of Notre Dame majoring in Economics with minors
 - 👩🏻‍🎓 Seeking full-time roles in Economic Consulting, Data Analytics, and related areas that allow me to contribute to meaningful data-driven work.
 - 💼 Applied research and data analysis experience supporting evidence-based decisions, complemented by operations and leadership experience across team, project, and logistics management.
 
+## Current Projects:
+
+## Goals: 
+
 
 ### Languages and Tools:
 
