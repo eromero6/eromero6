@@ -11,6 +11,11 @@ I’m a senior at the University of Notre Dame majoring in Economics with minors
 ## Current Projects:
 
 ## Goals: 
+By the end of the semester I hope to: 
+- Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, and Streamlit for data manipulation, visualization, and application development.
+- Learn core machine learning concepts, including model selection, feature engineering, hyperparameter tuning, and model evaluation, and apply these skills to real-world data.
+- Gain exposure to advanced topics like neural networks, natural language processing (NLP), and fine-tuning pre-trained LLMs for analytics and decision-making.
+
 
 
 ### Languages and Tools:
