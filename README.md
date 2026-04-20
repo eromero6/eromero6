@@ -12,7 +12,6 @@ Throughout this semester I will create a portfolio of data-driven web applicatio
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science Portfolio](https://github.com/eromero6/ROMERO-Data-Science-Portfolio)
-- [Elements of Computing II Portfolio](https://github.com/eromero6/ROMERO-elements-of-computing-ii)
 
 ## Goals for Spring 2026: 
 By the end of the semester I hope to: 
