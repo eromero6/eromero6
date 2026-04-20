@@ -3,10 +3,9 @@
 I’m a senior at the University of Notre Dame majoring in Economics with minors in Accountancy and Data Science. I’ve built my academic path around rigor, curiosity, and a commitment to solving real-world problems with data.
 
 ## About Me
-- 📊 Research Operations Intern at the Wilson Sheehan Lab for Economic Opportunities​
-- 📓 Current courses: Introduction to Data Science, Elements of Computing II, Generative AI in the Wild, Empirical Methods in Development Economics
-- 👩🏻‍🎓 Seeking full-time roles in Economic Consulting, Data Analytics, and related areas that allow me to contribute to meaningful data-driven work.
-- 💼 Applied research and data analysis experience supporting evidence-based decisions, complemented by operations and leadership experience across team, project, and logistics management.
+- 💼 Incoming Client Operations Associate at STUDIO Investment Management​
+- 📓 Relevant courses taken in data science, computing, artificial intelligence, applied economics & econometrics, and more.
+- 📊 Applied poverty research and data analysis experience supporting evidence-based decisions, complemented by operations and leadership experience across team, project, and logistics management.
 
 ## Current Projects:
 Throughout this semester I will create a portfolio of data-driven web applications, integrating EDA, machine learning models, and LLMs to solve practical problems and effectively communicate results.
