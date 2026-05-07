@@ -1,25 +1,48 @@
 # Hi, I'm Eva Romero! 👋
-
-I’m a senior at the University of Notre Dame majoring in Economics with minors in Accountancy and Data Science. I’ve built my academic path around rigor, curiosity, and a commitment to solving real-world problems with data.
+I'm an alum from the University of Notre Dame ('26) who majored in Economics 
+with minors in Accountancy and Data Science. I built my academic path around 
+rigor, curiosity, and a commitment to solving real-world problems with data.
 
 ## About Me
-- 💼 Incoming Client Operations Associate at STUDIO Investment Management​
-- 📓 Relevant courses taken in data science, computing, artificial intelligence, applied economics & econometrics, and more.
-- 📊 Applied poverty research and data analysis experience supporting evidence-based decisions, complemented by operations and leadership experience across team, project, and logistics management.
+- 💼 Client Operations Associate at STUDIO Investment Management
+- 📓 Coursework spanning data science, computing, artificial intelligence, 
+  applied economics & econometrics, and more
+- 📊 Applied poverty research and data analysis experience supporting 
+  evidence-based decisions, complemented by operations and leadership 
+  experience across team, project, and logistics management
 
-## Current Projects:
-Throughout this semester I will create a portfolio of data-driven web applications, integrating EDA, machine learning models, and LLMs to solve practical problems and effectively communicate results.
+## Latest Projects
+During my final semester at Notre Dame, I built a portfolio of data-driven 
+web applications integrating EDA, machine learning models, and LLMs to solve 
+practical problems and effectively communicate results.
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science Portfolio](https://github.com/eromero6/ROMERO-Data-Science-Portfolio)
 
-## Goals for Spring 2026: 
-By the end of the semester I hope to: 
-- Build proficiency in using data science tools including Python Libraries (Pandas & Seaborn), Plotly, Streamlit, and SQL for data manipulation, visualization, application development, and database integration.
-- Learn core machine learning concepts, including model selection, feature engineering, hyperparameter tuning, and model evaluation, and apply these skills to real-world data.
-- Gain exposure to advanced topics like neural networks, natural language processing (NLP), and fine-tuning pre-trained LLMs for analytics and decision-making.
-- Proficiently evaluate ethical considerations, such as bias and fairness in datasets, responsible research design, and ethical implications of deploying predictive and generative models.
+## What I Learned & Where I'm Headed
+Over my final semester, I developed hands-on proficiency in:
+- **Data tools:** Python (Pandas, Seaborn, Plotly, Streamlit) and SQL for 
+  data manipulation, visualization, and application development. Applied tidy data principles to structure, clean, and reshape messy 
+  real-world datasets — handling missing values, inconsistent formatting, 
+  outliers, and merging data across multiple sources.
+- **Data Integrity & Bias Awareness:** Developed an eye for where bias enters 
+  the data pipeline — from collection and sampling to labeling and aggregation. 
+  Practiced identifying and documenting data quality issues before modeling, 
+  recognizing that downstream decisions are only as reliable as the data 
+  they're built on.
+- **Machine learning:** Model selection, feature engineering, hyperparameter 
+  tuning, and evaluation applied to real-world datasets
+- **Advanced topics:** Neural networks, natural language processing (NLP), 
+  and fine-tuning pre-trained LLMs for analytics and decision-making
+- **Responsible & Critical AI:** Applied the Evidence-Centered Design (ECD) 
+  framework to evaluate AI outputs — structuring claims, evidence, and reasoning 
+  to assess whether a model is actually doing what it purports to do. Examined 
+  the computational, social, and environmental dimensions of AI development; 
+  deliberated on bias, fairness, and ethical deployment of predictive and 
+  generative models; and practiced prompt engineering across text, image, and video modalities.
 
+I'm now bringing these skills into my work in investment management, where I'm 
+excited to keep growing at the intersection of economics, data, and technology.
 
 ### Languages and Tools:
 
