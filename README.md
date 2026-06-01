@@ -4,7 +4,7 @@ with minors in Accountancy and Data Science. I built my academic path around
 rigor, curiosity, and a commitment to solving real-world problems with data.
 
 ## About Me
-- Currently seeking roles at the intersection of data, economics, and business operations.
+- 💼 Currently seeking roles at the intersection of data, economics, and business operations.
 - 📓 Coursework spanning data science, computing, artificial intelligence, 
   applied economics & econometrics, and more
 - 📊 Applied poverty research and data analysis experience supporting 
@@ -41,8 +41,7 @@ Over my final semester, I developed hands-on proficiency in:
   deliberated on bias, fairness, and ethical deployment of predictive and 
   generative models; and practiced prompt engineering across text, image, and video modalities.
 
-I'm now bringing these skills into my work in investment management, where I'm 
-excited to keep growing at the intersection of economics, data, and technology.
+I'm now bringing these skills into my career, where I'm excited to keep growing at the intersection of economics, data, and technology.
 
 ### Languages and Tools:
 
