@@ -4,7 +4,7 @@ with minors in Accountancy and Data Science. I built my academic path around
 rigor, curiosity, and a commitment to solving real-world problems with data.
 
 ## About Me
-- 💼 Client Operations Associate at STUDIO Investment Management
+- Currently seeking roles at the intersection of data, economics, and business operations.
 - 📓 Coursework spanning data science, computing, artificial intelligence, 
   applied economics & econometrics, and more
 - 📊 Applied poverty research and data analysis experience supporting 
